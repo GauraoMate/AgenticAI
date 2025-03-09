@@ -1,5 +1,3 @@
-### End To End Agentic AI Projects
-
 ---
 title: LanggraphAgenticAI
 emoji: 🐨
@@ -11,5 +9,5 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 short_description: Refined langgraphAgenticAI
----
+--- 
 
